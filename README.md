@@ -30,8 +30,10 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### HR(Heart Rate)
 
+- 2019-[Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks](https://pubmed.ncbi.nlm.nih.gov/31336894/)-229
 - 2020-[Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/document/9042276)-37
 - 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
+- 2023-[BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
 
 ### SpO2(Blood oxygen saturation level/Pulse oximetry)
 
