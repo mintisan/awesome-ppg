@@ -45,6 +45,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[Everything About Pulse Oximetry—Part 1: History, Principles, Advantages, Limitations, Inaccuracies, Cost Analysis, the Level of Knowledge About Pulse Oximeter Among Clinicians, and Pulse Oximetry Versus Tissue Oximetry](https://journals.sagepub.com/doi/abs/10.1177/08850666231185752)
 - 2023-[Reflection-Boosted Wearable Ring-Type Pulse Oximeters for SpO2 Measurement with High Sensitivity and Low Power Consumption](https://www.mdpi.com/2079-6374/13/7/711/pdf)
 - 2023-[Machine Learning-Based Respiration Rate and Blood Oxygen Saturation Estimation Using Photoplethysmogram Signals](https://www.mdpi.com/2306-5354/10/2/167)-4
+- 2023-[Simulating the Effects of Melanin and Air Gap Depth on the Accuracy of Reflectance Pulse Oximeters](https://www.scitepress.org/Papers/2023/117493/117493.pdf)-4
 
 ##  RR(respiratory rate)
 
