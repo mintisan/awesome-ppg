@@ -62,7 +62,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[**Simulating the Effects of Melanin and Air Gap Depth on the Accuracy of Reflectance Pulse Oximeters**](https://www.scitepress.org/Papers/2023/117493/117493.pdf)-4
 - 2023-[A review of the effect of skin pigmentation on pulse oximeter accuracy](https://iopscience.iop.org/article/10.1088/1361-6579/acd51a/pdf)-5
 
-##  RR(respiratory rate)
+##  RR(Respiratory rate)
 
 ### BP(Blood Pressure)
 
