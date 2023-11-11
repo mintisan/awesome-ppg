@@ -47,6 +47,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2020-[Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/document/9042276)-37
 - 2020-[CNNs for Heart Rate Estimation and Human Activity Recognition in Wrist Worn Sensing Applications](https://staff.itee.uq.edu.au/jaga/proceedings/percomworkshops2020/papers/p3-brophy.pdf)-17
 - 2021-[Real-Time System Prediction for Heart Rate Using Deep Learning and Stream Processing Platforms](https://www.hindawi.com/journals/complexity/2021/5535734/)-21
+- 2021-[Q-PPG: Energy-Efficient PPG-Based Heart Rate Monitoring on Wearable Devices](https://pubmed.ncbi.nlm.nih.gov/34673496/)-27
 - 2021-[Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://d-nb.info/1228416095/34)-45
 - 2021-[Multi-Headed Conv-LSTM Network for Heart Rate Estimation during Daily Living Activities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8348622/)-13
 - 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
