@@ -30,7 +30,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### Multi-wavelengths
 
-- 2023-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
+- 2021-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
 
 ### Multi-channels
 
