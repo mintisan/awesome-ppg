@@ -101,7 +101,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Books
 
-- [Photoplethysmography: Technology, Signal Analysis and Applications](https://www.amazon.com/Photoplethysmography-Technology-Signal-Analysis-Applications/dp/0128233745)
+- 2021-[Photoplethysmography: Technology, Signal Analysis and Applications, 1st Edition](https://www.amazon.com/Photoplethysmography-Technology-Signal-Analysis-Applications/dp/0128233745)
 
 ## Indices
 
