@@ -28,6 +28,15 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+### Multi-wavelengths
+
+- 2023-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
+
+### Multi-channels
+
+- 2020-[Motion Artifact Reduction in Wearable Photoplethysmography Based on Multi-Channel Sensors with Multiple Wavelengths](https://www.mdpi.com/1424-8220/20/5/1493)-80
+
+
 ### Peak detection
 
 - 2022-[Robust PPG Peak Detection Using Dilated Convolutional Neural Networks](https://www.mdpi.com/1424-8220/22/16/6054)-12
