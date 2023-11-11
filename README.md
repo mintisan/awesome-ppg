@@ -28,6 +28,15 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+### Peak detection
+
+- 2022-[Robust PPG Peak Detection Using Dilated Convolutional Neural Networks](https://www.mdpi.com/1424-8220/22/16/6054)-12
+
+### Artifacts removal
+
+- 2023-[**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**](https://arxiv.org/abs/2305.03308) | [code](https://github.com/SZTU-wearable/Tiny-PPG)
+
+
 ### HR(Heart Rate)
 
 - 2019-[DeepHeart: Accurate Heart Rate Estimation from PPG Signals Based on Deep Learning](https://ieeexplore.ieee.org/document/9077372)-12
@@ -39,13 +48,12 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2021-[Heart rate tracking in photoplethysmography signals affected by motion artifacts: a review](https://d-nb.info/1228416095/34)-45
 - 2021-[Multi-Headed Conv-LSTM Network for Heart Rate Estimation during Daily Living Activities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8348622/)-13
 - 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
-- 2022-[DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://www.techrxiv.org/articles/preprint/DeepPulse_An_Uncertainty-aware_Deep_Neural_Network_for_Heart_Rate_Estimations_from_Wrist-worn_Photoplethysmography/19368140)-3
-- 2023-[BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
-- 2023-[Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices](https://arxiv.org/abs/2305.03308) | [code](https://github.com/SZTU-wearable/Tiny-PPG)
+- 2022-[DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://www.techrxiv.org/articles/preprint/DeepPulse_An_Uncertainty-aware_Deep_Neural_Network_for_Heart_Rate_Estimations_from_Wrist-worn_Photoplethysmography/19368140)-3\
 - 2023-[Are Activity Wrist-Worn Devices Accurate for Determining Heart Rate during Intense Exercise?](https://www.mdpi.com/2306-5354/10/2/254)-3
 - 2023-[Precision Heart Rate Estimation Using a PPG Sensor Patch Equipped with New Algorithms of Pre-Quality Checking and Hankel Decomposition](https://www.mdpi.com/1424-8220/23/13/6180)
 - 2023-[PPG-based Heart Rate Estimation with Efficient Sensor Sampling and Learning Models](https://arxiv.org/pdf/2303.13636.pdf)-1
-
+- 2023-[**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
+  
 ### SpO2(Blood oxygen saturation level/Pulse oximetry)
 
 - 2013-[Pulse oximetry: Understanding its basic principles facilitates appreciation of its limitations](https://www.sciencedirect.com/science/article/pii/S095461111300053X)-696
