@@ -30,6 +30,8 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### HR(Heart Rate)
 
+- 2020-[Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/document/9042276)-37
+- 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
 
 ### SpO2(Blood oxygen saturation level/Pulse oximetry)
 
