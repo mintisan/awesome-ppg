@@ -31,6 +31,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### Multi-wavelengths
 
 - 2021-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
+- 2023-[Multiwavelength photoplethysmography signal analysis as a function of varied wrist contact pressure](https://ui.adsabs.harvard.edu/abs/2023SPIE12387E..07M/abstract)
 
 ### Multi-channels
 
