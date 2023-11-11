@@ -30,12 +30,14 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### HR(Heart Rate)
 
+- 2019-[DeepHeart: Accurate Heart Rate Estimation from PPG Signals Based on Deep Learning](https://ieeexplore.ieee.org/document/9077372)-12
 - 2019-[Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks](https://pubmed.ncbi.nlm.nih.gov/31336894/)-229
 - 2019-[CorNET: Deep Learning Framework for PPG-Based Heart Rate Estimation and Biometric Identification in Ambulant Environment](https://ieeexplore.ieee.org/ielaam/4156126/8672973/8607019-aam.pdf)-228
 - 2020-[Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/document/9042276)-37
 - 2020-[CNNs for Heart Rate Estimation and Human Activity Recognition in Wrist Worn Sensing Applications](https://staff.itee.uq.edu.au/jaga/proceedings/percomworkshops2020/papers/p3-brophy.pdf)-17
 - 2021-[Real-Time System Prediction for Heart Rate Using Deep Learning and Stream Processing Platforms](https://www.hindawi.com/journals/complexity/2021/5535734/)-21
 - 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
+- 2022-[DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://www.techrxiv.org/articles/preprint/DeepPulse_An_Uncertainty-aware_Deep_Neural_Network_for_Heart_Rate_Estimations_from_Wrist-worn_Photoplethysmography/19368140)-3
 - 2023-[BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
 - 2023-[Are Activity Wrist-Worn Devices Accurate for Determining Heart Rate during Intense Exercise?](https://www.mdpi.com/2306-5354/10/2/254)-3
 - 2023-[Precision Heart Rate Estimation Using a PPG Sensor Patch Equipped with New Algorithms of Pre-Quality Checking and Hankel Decomposition](https://www.mdpi.com/1424-8220/23/13/6180)
