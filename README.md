@@ -1,4 +1,4 @@
-# Awesome GSR(Galvanic Skin Response)
+# Awesome PPG(Photoplethysmography)
 
 
 ![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-ppg.svg?style=social)
