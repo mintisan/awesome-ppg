@@ -41,6 +41,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### Multi-channels
 
 - 2007-[Multichannel Reflective PPG Earpiece Sensor With Passive Motion Cancellation](https://ieeexplore.ieee.org/document/4404855)-143
+- 2018-[Wearable Multichannel Photoplethysmography Framework for Heart Rate Monitoring During Intensive Exercise](https://ieeexplore.ieee.org/abstract/document/8279414)-55
 - 2016-[Improving Pulse Rate Measurements during Random Motion Using a Wearable Multichannel Reflectance Photoplethysmograph](https://www.mdpi.com/1424-8220/16/3/342)-79
 - 2019-[Organic Multi-Channel Optoelectronic Sensors for Wearable Health Monitoring](https://ieeexplore.ieee.org/document/8826261)-52
 - 2020-[Motion Artifact Reduction in Wearable Photoplethysmography Based on Multi-Channel Sensors with Multiple Wavelengths](https://www.mdpi.com/1424-8220/20/5/1493)-80
