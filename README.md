@@ -28,6 +28,10 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Papers
 
+### Review
+
+- 2023-[The 2023 wearable photoplethysmography roadmap](https://pure.coventry.ac.uk/ws/portalfiles/portal/73998424/Charlton_et_al_2023_Physiol._Meas._10.1088_1361_6579_acead2.pdf)
+
 ### Multi-wavelengths
 
 - 2021-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
