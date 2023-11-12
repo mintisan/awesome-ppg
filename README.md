@@ -91,7 +91,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[Research on Multiple Spectral Ranges with Deep Learning for SpO2 Measurement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8749643/)-3 | [finger]
 - 2022-[**Skin Pigmentation Influence on Pulse Oximetry Accuracy: A Systematic Review and Bibliometric Analysis**](https://www.mdpi.com/1424-8220/22/9/3402)-36 | 【空气间隙以及皮肤颜色在校准过程中对最后结果的影响】
 - 2023-[A Deep Learning Approach to Estimate SpO2 from PPG Signals](https://dl.acm.org/doi/10.1145/3569192.3569215)
-- 2023-[SpO2 Estimation Using Deep Neural Networks: A Comparative Study](https://ieeexplore.ieee.org/document/10193267)
+- 2023-[SpO2 Estimation Using Deep Neural Networks: A Comparative Study](https://ieeexplore.ieee.org/document/10193267) | [finger+camera]
 - 2023-[Everything About Pulse Oximetry—Part 1: History, Principles, Advantages, Limitations, Inaccuracies, Cost Analysis, the Level of Knowledge About Pulse Oximeter Among Clinicians, and Pulse Oximetry Versus Tissue Oximetry](https://journals.sagepub.com/doi/abs/10.1177/08850666231185752)
 - 2023-[Reflection-Boosted Wearable Ring-Type Pulse Oximeters for SpO2 Measurement with High Sensitivity and Low Power Consumption](https://www.mdpi.com/2079-6374/13/7/711/pdf)
 - 2023-[Machine Learning-Based Respiration Rate and Blood Oxygen Saturation Estimation Using Photoplethysmogram Signals](https://www.mdpi.com/2306-5354/10/2/167)-4
