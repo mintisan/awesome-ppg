@@ -30,6 +30,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### Review
 
+- 2022-[Photoplethysmography Signal Processing and Synthesis](https://peterhcharlton.github.io/publication/ppg_sig_proc_chapter/PPG_sig_proc_Chapter_20210612.pdf)-34
 - 2023-[Photoplethysmography in Wearable Devices: A Comprehensive Review of Technological Advances, Current Challenges, and Future Directions](https://www.mdpi.com/2079-9292/12/13/2923)-2
 - 2023-[The 2023 wearable photoplethysmography roadmap](https://pure.coventry.ac.uk/ws/portalfiles/portal/73998424/Charlton_et_al_2023_Physiol._Meas._10.1088_1361_6579_acead2.pdf)
 
@@ -83,11 +84,12 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2013-[Pulse oximetry: Understanding its basic principles facilitates appreciation of its limitations](https://www.sciencedirect.com/science/article/pii/S095461111300053X)-696
 - 2014-[Pulse oximetry: Fundamentals and technology update](https://www.researchgate.net/publication/264009809_Pulse_oximetry_Fundamentals_and_technology_update)-415
 - 2015-[Pulse oximetry](https://ccforum.biomedcentral.com/articles/10.1186/s13054-015-0984-8)-902
+- 2018-[Design of a new reflectance pulse oximeter by obtaining the optimal source-detector space](https://www.sciencedirect.com/science/article/abs/pii/S0030402618305242)-15
 - 2019-[Machine Learning based SpO2 Computation Using Reflectance Pulse Oximetry](https://pubmed.ncbi.nlm.nih.gov/31945942/)-23
 - 2020-[**Robust Modelling of Reflectance Pulse Oximetry for SpO2 Estimation**](https://arxiv.org/pdf/2004.06301.pdf)-7 | [code](https://github.com/prithusuresh/Reflectance-SPO2)
 - 2021-[**Learning about reflective PPG for SpO2 determination using Machine Learning**](https://www.researchgate.net/publication/356917812_Learning_about_reflective_PPG_for_SpO2_determination_using_Machine_Learning)-1 | [ear]
 - 2022-[Research on Multiple Spectral Ranges with Deep Learning for SpO2 Measurement](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8749643/)-3 | [finger]
-- 2022-[Skin Pigmentation Influence on Pulse Oximetry Accuracy: A Systematic Review and Bibliometric Analysis](https://www.mdpi.com/1424-8220/22/9/3402)-36
+- 2022-[**Skin Pigmentation Influence on Pulse Oximetry Accuracy: A Systematic Review and Bibliometric Analysis**](https://www.mdpi.com/1424-8220/22/9/3402)-36 | 【空气间隙以及皮肤颜色在校准过程中对最后结果的影响】
 - 2023-[A Deep Learning Approach to Estimate SpO2 from PPG Signals](https://dl.acm.org/doi/10.1145/3569192.3569215)
 - 2023-[SpO2 Estimation Using Deep Neural Networks: A Comparative Study](https://ieeexplore.ieee.org/document/10193267)
 - 2023-[Everything About Pulse Oximetry—Part 1: History, Principles, Advantages, Limitations, Inaccuracies, Cost Analysis, the Level of Knowledge About Pulse Oximeter Among Clinicians, and Pulse Oximetry Versus Tissue Oximetry](https://journals.sagepub.com/doi/abs/10.1177/08850666231185752)
