@@ -21,6 +21,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ## Library
 
+- [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) : Python Heart Rate Analysis Package, for both PPG and ECG signals
 
 
 ### Comparison
@@ -64,6 +65,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - 2019-[DeepHeart: Accurate Heart Rate Estimation from PPG Signals Based on Deep Learning](https://ieeexplore.ieee.org/document/9077372)-12
 - 2019-[Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks](https://pubmed.ncbi.nlm.nih.gov/31336894/)-229
+- 2019-[HeartPy: A novel heart rate algorithm for the analysis of noisy signals](https://www.sciencedirect.com/science/article/abs/pii/S1369847818306740)-162 | [code](https://github.com/paulvangentcom/heartrate_analysis_python)
 - 2019-[CorNET: Deep Learning Framework for PPG-Based Heart Rate Estimation and Biometric Identification in Ambulant Environment](https://ieeexplore.ieee.org/ielaam/4156126/8672973/8607019-aam.pdf)-228
 - 2020-[Deep Learning for Heart Rate Estimation from Reflectance Photoplethysmography with Acceleration Power Spectrum and Acceleration Intensity](https://ieeexplore.ieee.org/document/9042276)-37
 - 2020-[CNNs for Heart Rate Estimation and Human Activity Recognition in Wrist Worn Sensing Applications](https://staff.itee.uq.edu.au/jaga/proceedings/percomworkshops2020/papers/p3-brophy.pdf)-17
