@@ -23,7 +23,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 - [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) : Python Heart Rate Analysis Package, for both PPG and ECG signals
 - [Neurokit](https://github.com/neuropsychology/NeuroKit) : The Python Toolbox for Neurophysiological Signal Processing
-
+- [PPG-Beats](https://ppg-beats.readthedocs.io/en/latest/)
 
 
 
