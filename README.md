@@ -22,6 +22,9 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ## Library
 
 - [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) : Python Heart Rate Analysis Package, for both PPG and ECG signals
+- [Neurokit](https://github.com/neuropsychology/NeuroKit) : The Python Toolbox for Neurophysiological Signal Processing
+
+
 
 
 ### Comparison
@@ -52,6 +55,11 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 ### Peak detection
 
+- 2013-[Systolic peak detection in acceleration photoplethysmograms measured from emergency responders in tropical conditions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076585)-187
+- 2014-[An Efficient and Automatic Systolic Peak Detection Algorithm for Photoplethysmographic Signals](https://www.researchgate.net/publication/271156444_An_Efficient_and_Automatic_Systolic_Peak_Detection_Algorithm_for_Photoplethysmographic_Signals)
+- 2019-[Analysing noisy driver physiology real-time using off-the-shelf sensors: Heart rate analysis software from the taking the fast lane project](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.241)-79
+- 2020-[A robust PPG onset and systolic peak detection algorithm based on Hilbert transform](https://ieeexplore.ieee.org/document/9106571)-8
+- 2020-[Improved Peak Detection Algorithm for Photoplethysmographic Signals](https://ieeexplore.ieee.org/document/9299546)-2
 - 2022-[Robust PPG Peak Detection Using Dilated Convolutional Neural Networks](https://www.mdpi.com/1424-8220/22/16/6054)-12
 
 ### Artifacts removal
