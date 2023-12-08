@@ -60,7 +60,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2019-[Analysing noisy driver physiology real-time using off-the-shelf sensors: Heart rate analysis software from the taking the fast lane project](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.241)-79
 - 2020-[A robust PPG onset and systolic peak detection algorithm based on Hilbert transform](https://ieeexplore.ieee.org/document/9106571)-8
 - 2020-[Improved Peak Detection Algorithm for Photoplethysmographic Signals](https://ieeexplore.ieee.org/document/9299546)-2
-- 2022-[Robust PPG Peak Detection Using Dilated Convolutional Neural Networks](https://www.mdpi.com/1424-8220/22/16/6054)-12
+- 2022-[Robust PPG Peak Detection Using Dilated Convolutional Neural Networks](https://www.mdpi.com/1424-8220/22/16/6054)-12 | [code](https://github.com/HealthSciTech/Robust_PPG_PD)
 
 ### Artifacts removal
 
