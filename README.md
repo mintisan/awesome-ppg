@@ -68,6 +68,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2020-[Robust PPG motion artifact detection using a 1-D convolution neural network](https://www.sciencedirect.com/science/article/abs/pii/S0169260720314292)-44
 - 2021-[An Accurate Non-accelerometer-based PPG Motion Artifact Removal Technique using CycleGAN](https://arxiv.org/abs/2106.11512)-24
 - 2023-[**Tiny-PPG: A Lightweight Deep Neural Network for Real-Time Detection of Motion Artifacts in Photoplethysmogram Signals on Edge Devices**](https://arxiv.org/abs/2305.03308) | [code](https://github.com/SZTU-wearable/Tiny-PPG)
+- 2023-[Opening the envelope: Efficient envelope-based PPG denoising algorithm](https://www.sciencedirect.com/science/article/pii/S1746809423011266)
 
 
 ### HR(Heart Rate)
