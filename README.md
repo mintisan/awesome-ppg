@@ -41,6 +41,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 ### Multi-wavelengths
 
 - 2021-[A Review of Wearable Multi-Wavelength Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/34669577/)-35
+- 2022-[Dual Wavelength Photoplethysmography Framework for Heart Rate Calculation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9782066/)-2 | 【红外去噪】
 - 2023-[Multiwavelength photoplethysmography signal analysis as a function of varied wrist contact pressure](https://ui.adsabs.harvard.edu/abs/2023SPIE12387E..07M/abstract)
 
 ### Multi-channels
@@ -89,6 +90,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2023-[PPG-based Heart Rate Estimation with Efficient Sensor Sampling and Learning Models](https://arxiv.org/pdf/2303.13636.pdf)-1
 - 2023-[Heart rate estimation from wrist-PPG signals in activity by deep learning methods](https://kth.diva-portal.org/smash/get/diva2:1801202/FULLTEXT01.pdf)-thesis 【有讨论多通道模型，相比于单通道提升12%】
 - 2023-[**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
+- 2023-[A Self-Supervised Algorithm for Denoising Photoplethysmography Signals for Heart Rate Estimation from Wearables](https://arxiv.org/abs/2307.05339v1)-code? | 【用 decoder 去恢复被破坏的波形】
   
 ### SpO2(Blood oxygen saturation level/Pulse oximetry)
 
