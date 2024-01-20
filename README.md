@@ -86,12 +86,14 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - 2022-[Heart rate estimation in PPG signals using Convolutional-Recurrent Regressor](https://pubmed.ncbi.nlm.nih.gov/35381452/)-17
 - 2022-[DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://www.techrxiv.org/articles/preprint/DeepPulse_An_Uncertainty-aware_Deep_Neural_Network_for_Heart_Rate_Estimations_from_Wrist-worn_Photoplethysmography/19368140)-3
 - 2022-[ActPPG : Embedding Temporal Convolutional Networks for Energy-Efficient PPG-Based Heart Rate Monitoring](https://arxiv.org/pdf/2203.04396.pdf)-14
+- 2022-[Robust and Energy-efficient PPG-based Heart-Rate Monitoring](https://arxiv.org/abs/2203.16339)-22
 - 2023-[Are Activity Wrist-Worn Devices Accurate for Determining Heart Rate during Intense Exercise?](https://www.mdpi.com/2306-5354/10/2/254)-3
 - 2023-[Precision Heart Rate Estimation Using a PPG Sensor Patch Equipped with New Algorithms of Pre-Quality Checking and Hankel Decomposition](https://www.mdpi.com/1424-8220/23/13/6180)
 - 2023-[PPG-based Heart Rate Estimation with Efficient Sensor Sampling and Learning Models](https://arxiv.org/pdf/2303.13636.pdf)-1
 - 2023-[Heart rate estimation from wrist-PPG signals in activity by deep learning methods](https://kth.diva-portal.org/smash/get/diva2:1801202/FULLTEXT01.pdf)-thesis 【有讨论多通道模型，相比于单通道提升12%】
 - 2023-[**BeliefPPG: Uncertainty-aware Heart Rate Estimation from PPG signals via Belief Propagation**](https://arxiv.org/pdf/2306.07730.pdf) | [code](https://github.com/eth-siplab/BeliefPPG)
 - 2023-[A Self-Supervised Algorithm for Denoising Photoplethysmography Signals for Heart Rate Estimation from Wearables](https://arxiv.org/abs/2307.05339v1)-code? | 【用 decoder 去恢复被破坏的波形】
+- 2023-[Energy-efficient Wearable-to-Mobile Offload of ML Inference for PPG-based Heart-Rate Estimation](https://arxiv.org/pdf/2306.06129.pdf)-2
   
 ### SpO2(Blood oxygen saturation level/Pulse oximetry)
 
