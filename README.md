@@ -24,6 +24,7 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 - [HeartPy](https://github.com/paulvangentcom/heartrate_analysis_python) : Python Heart Rate Analysis Package, for both PPG and ECG signals
 - [Neurokit](https://github.com/neuropsychology/NeuroKit) : The Python Toolbox for Neurophysiological Signal Processing
 - [PPG-Beats](https://ppg-beats.readthedocs.io/en/latest/)
+- [ppg-js](https://github.com/sontakey/ppg-js) : Browser (TypeScript) library for camera-based fingertip PPG: heart rate, inter-beat intervals, RMSSD/SDNN, breathing rate and a per-window signal-quality gate
 
 
 
@@ -128,6 +129,11 @@ A curated list of awesome libraries, datasets, tutorials, papers, and other reso
 
 
 ## Tutorial
+
+- [What Is Photoplethysmography (PPG)?](https://chatppg.com/blog/what-is-photoplethysmography) : Technical introduction to PPG physics, reflectance vs transmission, and signal components
+- [Plethscape](https://chatppg.com/plethscape) : Interactive 3D simulator showing how sensing site, wavelength, age, breathing and motion change the PPG waveform
+- [PPG and wearable dataset directory](https://chatppg.com/datasets) : Filterable table of public PPG, ECG and wearable datasets, with signals, PPG site, subjects and license
+- [ppg-js documentation](https://chatppg.com/docs/ppg-js) : Usage guide for the ppg-js browser library
 
 ## Datasets
 
